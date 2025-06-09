@@ -71,3 +71,5 @@ Add difficulty levels (random bias)
 📄 License
 
 This project is open source and available under the MIT License.
+
+Feel free to reach out for giving suggestions...
