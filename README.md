@@ -59,14 +59,6 @@ Random number generation
 
 User input handling
 
-
-📂 Folder Structure
-
-rock-paper-scissors/
-│
-├── rock_paper_scissors.py
-└── README.md
-
 🧠 Future Improvements
 
 Add GUI using Tkinter or PyQt
